@@ -10,17 +10,25 @@
             <img  class="author-thumb" src="{{site.baseurl}}/{{ author.avatar }}" alt="{{ author.display_name }}">
             {% endif %}
             <p class="mt-4 mb-0 small text-center">
+                {% if author.web %}
                 <a target="_blank" class="d-inline-block mx-1 text-dark" href="{{ author.web }}"><i class="fa-solid fa-link"></i></a> 
+                {% endif %}
+
+                {% if author.facebook %}
                 <a target="_blank" class="d-inline-block mx-1 text-dark" href="{{ author.facebook }}"><i class="fa-brands fa-facebook"></i></a>
+                {% endif %}
 
                 {% if author.instagram %}
                 <a target="_blank" class="d-inline-block mx-1 text-dark" href="{{ author[1].instagram }}"><i class="fa-brands fa-instagram"></i></a>
                 {% endif %}
 
-
+                {% if author.twitter %}
                 <a target="_blank" class="d-inline-block mx-1 text-dark" href="{{ author.twitter }}"><i class="fa-brands fa-twitter"></i></a>
+                {% endif %}
 
+                {% if author.email %}
                 <a class="d-inline-block mx-1 text-dark" href="mailto:{{ author.email }}"><i class="fa-solid fa-envelope"></i></a>
+                {% endif %}
             </p>
         </div>
         <div class="col-md-9">
