@@ -1,13 +1,16 @@
 ---
 layout: page
-title: Memoirs, a free minimalist Jekyll blogging theme with modern design 
+title: About Stateless Malaysia 
 permalink: /about
 comments: false
-image: assets/images/screenshot.jpg
+image: 
 imageshadow: true
 ---
 
-This website is a demonstration to see **Memoirs Jekyll theme** in action. The theme is compatible with Github pages, in fact even this demo itself is created with Github Pages and hosted with Github. 
+**It is all about documenting the stories of stateless Malaysians**
 
-<a target="_blank" href="https://bootstrapstarter.com/jekyll-theme-memoirs/" class="btn btn-dark"> Get Memoirs for Jekyll &rarr;</a>
+We believe that citizenship should not be exclusively proven via papers. 
+Every Malaysians can be stateless, every stateless person can be Malaysian.
+
+<a target="_blank" href="http://stateless.my" class="btn btn-dark"> Read Our Articles &rarr;</a>
 
