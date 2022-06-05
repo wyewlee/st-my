@@ -12,5 +12,5 @@ imageshadow: true
 We believe that citizenship should not be exclusively proven via papers. 
 Every Malaysians can be stateless, every stateless person can be Malaysian.
 
-<a target="_blank" href="http://stateless.my" class="btn btn-dark"> Read Our Articles &rarr;</a>
+<a href="http://stateless.my" class="btn btn-dark"> Read Our Articles &rarr;</a>
 
