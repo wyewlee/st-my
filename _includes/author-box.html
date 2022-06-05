@@ -11,8 +11,10 @@
             {% endif %}
             <p class="mt-4 mb-0 small text-center">
                 <a target="_blank" class="d-inline-block mx-1 text-dark" href="{{ author.web }}"><i class="fa fa-link"></i></a> 
-                <a target="_blank" class="d-inline-block mx-1 text-dark" href="{{ author.twitter }}"><i class="fab fa-twitter"></i></a>
                 <a target="_blank" class="d-inline-block mx-1 text-dark" href="{{ author.facebook }}"><i class="fab fa-facebook"></i></a>
+                <a target="_blank" class="d-inline-block mx-1 text-dark" href="{{ author[1].instagram }}"><i class="fab fa-instagram-square"></i></a>
+                <a target="_blank" class="d-inline-block mx-1 text-dark" href="{{ author.twitter }}"><i class="fab fa-twitter"></i></a>
+
                 <a class="d-inline-block mx-1 text-dark" href="mailto:{{ author.email }}"><i class="fa fa-envelope"></i></a>
             </p>
         </div>
