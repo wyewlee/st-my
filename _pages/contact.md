@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact [Work-In-Progress]
+title: Contact Form [Work-In-Progress]
 permalink: /contact
 comments: false
 ---
