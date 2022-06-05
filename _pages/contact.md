@@ -5,7 +5,7 @@ permalink: /contact
 comments: false
 ---
 
-<p class="mb-4">Please send your message to {{site.authors[1].email}}. We will reply as soon as possible!</p>
+<p class="mb-4">Please send your message to {{site.authors.wyl.email}}. We will reply as soon as possible!</p>
 
 <!-- <form action="https://formspree.io/{{site.email}}" method="POST">     -->
 <!-- <p class="mb-4">Please send your message to {{site.name}}. We will reply as soon as possible!</p> -->
