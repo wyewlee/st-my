@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Launching - Stateless.my"
-author: sal
+author: wyl
 categories: [ ]
 tags: [ ]
 image: assets/images/1.png
