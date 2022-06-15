@@ -9,10 +9,4 @@ beforetoc: "We believe that citizenship should not be exclusively proven via pap
 toc: true
 ---
 
-#### Launching Stateless.my
-
-#### Documenting The Stories Of Statelessness
-
-#### Open For Stories & Contents
-
 > Hidup Tetapi Tiada Kehidupan, Bercita-cita Tetapi Tiada Masa Depan.
