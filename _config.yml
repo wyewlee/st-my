@@ -1,6 +1,6 @@
 # Site
-name: "Stateless Malaysia"
-title: "ST-MY"
+name: "Stateless Malaysians - Stateless.my"
+title: "Stateless.my"
 description: "We believe that citizenship should not be exclusively proven via papers. Every Malaysians can be stateless, every stateless person can be Malaysian."
 logo: 'assets/images/logo-01-01.jpeg'
 favicon: 'assets/images/logo-01-01.jpeg'
@@ -23,7 +23,7 @@ authors:
     # twitter: https://twitter.com/wowthemesnet
     # facebook: https://facebook.com
     # instagram: https://instagram.com
-    description: "Co-Founder of Stateless Malaysia, stateless Malaysian."
+    description: "Co-Founder of Stateless.my, stateless Malaysian."
   han:
     name: Lim Zheng Han
     display_name: Lim Zheng Han   
@@ -33,7 +33,7 @@ authors:
     # twitter: https://twitter.com/wowthemesnet
     facebook: https://www.facebook.com/lim.han.77
     instagram: https://www.instagram.com/han_master97/
-    description: "Co-Founder of Stateless Malaysia & Special Officer for Citizenship Bureau of Penang State Government since 2021."
+    description: "Co-Founder of Stateless.my & Special Officer for Citizenship Bureau of Penang State Government since 2021."
 
 # Plugins
 plugins:
