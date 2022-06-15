@@ -15,8 +15,8 @@ email: yewlee456@gmail.com #not working formspree
 # Authors
 authors:
   wyl:
-    name: Yew Lee, Wong
-    display_name: Yew Lee, Wong
+    name: Wong Yew Lee
+    display_name: Wong Yew Lee
     avatar: 'assets/images/avatar-wyl.png'
     email: yewlee456@gmail.com
     web: http://yewlee.tech/
@@ -25,15 +25,15 @@ authors:
     # instagram: https://instagram.com
     description: "Co-Founder of Stateless Malaysia, stateless Malaysian."
   han:
-    name: Zheng Han, Lim  
-    display_name: Zheng Han, Lim    
+    name: Lim Zheng Han
+    display_name: Lim Zheng Han   
     avatar: 'assets/images/avatar-han.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    facebook: https://facebook.com
-    instagram: https://instagram.com
-    description: "Write a short description of the author here. You are currently previewing Memoirs demo, a Jekyll template compatible with Github pages."
+    email: zhenghan.berapit@gmail.com
+    # web: https://www.wowthemes.net
+    # twitter: https://twitter.com/wowthemesnet
+    facebook: https://www.facebook.com/lim.han.77
+    instagram: https://www.instagram.com/han_master97/
+    description: "Co-Founder of Stateless Malaysia & Special Officer for Citizenship Bureau of Penang State Government since 2021."
 
 # Plugins
 plugins:
