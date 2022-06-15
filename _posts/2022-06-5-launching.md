@@ -4,7 +4,7 @@ title:  "Launching - Stateless.my"
 author: wyl
 categories: [ ]
 tags: [ ]
-image: assets/images/1.png
+image: assets/images/logo-01-01.jpeg
 beforetoc: "We believe that citizenship should not be exclusively proven via papers. Every Malaysians can be stateless, every stateless person can be Malaysian."
 toc: true
 ---
