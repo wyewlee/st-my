@@ -13,9 +13,7 @@ It has been 62 years since the *1954 Convention Relating to the Status of Statel
 
 Frustrated with the plight of statelessness in Malaysia, ***Stateless.my*** is being launched to platform and document the stories of the stateless community. Stateless.my aims to increase the discord of the statelessness issue among Malaysians.
 
-Stateless.my is launched by Wong Yew Lee and Lim Zheng Han, two concerned-youths on statelessness in Malaysia, we believe that citizenship should not be exclusively proven via papers. 
-
-With the real experience of being a stateless Malaysian, Yew Lee hopes to share his true views on the statelessness issue in Malaysia. Complemented by the vast experience of handling statelessness cases as Special Officer of Citizenship Affairs for Penang State Government, Zheng Han hopes to share his frustration in dealing with bureaucracy red tape in the journey of ending statelessness in Malaysia. 
+Stateless.my is launched by Wong Yew Lee, a concerned-youth on statelessness in Malaysia, he believe that citizenship should not be exclusively proven via papers. 
 
 #### Documenting The Stories Of Statelessness
 
