@@ -23,6 +23,7 @@ Stateless.my is launched by Wong Yew Lee, a concerned youth affected by stateles
 *collective of people*
 *people based*
 *everyone*
+*affirm human rights value and intersectionality*
 
 #### Documenting The Stories Of Statelessness
 
@@ -40,5 +41,9 @@ Stay tuned to our page for more interesting contents!
 #### Open For Articles 
 
 *open for publishing and platforming*
+
+#### Contact Us
+
+*email*
 
 > Hidup Tetapi Tiada Kehidupan, Bercita-cita Tetapi Tiada Masa Depan.
