@@ -17,7 +17,12 @@ Frustrated with the plight of statelessness in Malaysia, ***Stateless.my*** is b
 
 Stateless.my is launched by Wong Yew Lee, a concerned youth affected by statelessness in Malaysia, he believes that citizenship should not be exclusively proven via papers. 
 
+#### What Is The Direction Of Stateless.my?
+
+*We would like to invite every concerned Malaysian to join the struggle of stateless Malaysians.*
 *collective of people*
+*people based*
+*everyone*
 
 #### Documenting The Stories Of Statelessness
 
@@ -26,8 +31,14 @@ For too long, the voices of the stateless community have been unheard. Marginali
 Stateless.my acknowledge the difficult yet unique journey of every stateless Malaysian in finding the exit for statelessness. Everyone has a very unique story to share. 
 
 #### Open For Stories & Contents
-Stateless.my is open to platform any stories and contents with the focus of statelessness in Malaysia. We would like to hear your unique journey and struggle on this road of statelessness. We would like to invite every concerned Malaysian to join the struggle of stateless Malaysians.
+Stateless.my is open to platform any stories and contents with the focus of statelessness in Malaysia. We would like to hear your unique journey and struggle on this road of statelessness. 
+
+*open for collab*
 
 Stay tuned to our page for more interesting contents!
+
+#### Open For Articles 
+
+*open for publishing and platforming*
 
 > Hidup Tetapi Tiada Kehidupan, Bercita-cita Tetapi Tiada Masa Depan.
