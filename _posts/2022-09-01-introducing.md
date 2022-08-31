@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Launching - Stateless.my"
+title:  "Introducing - Stateless.my"
 author: wyl
 categories: [ ]
 tags: [ ]
