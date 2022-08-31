@@ -9,11 +9,15 @@ beforetoc: "For too long, the voices of the stateless community have been unhear
 toc: true
 ---
 
+*insert merdeka 65 years*
+
 It has been 62 years since the *1954 Convention Relating to the Status of Stateless Persons 1954* came into effect, where 96 state parties came into affirmation to protect stateless individuals. Followed by the recent ascension of the Philippines to *1961 Convention on the Reduction of Statelessness* and the election of Malaysia to the *UN Human Rights Council*, we have seen no major will by The Government of Malaysia to address the issue of statelessness. 
 
 Frustrated with the plight of statelessness in Malaysia, ***Stateless.my*** is being launched to platform and document the stories of the stateless community. Stateless.my aims to increase the discord of the statelessness issue among Malaysians.
 
-Stateless.my is launched by Wong Yew Lee, a concerned-youth on statelessness in Malaysia, he believe that citizenship should not be exclusively proven via papers. 
+Stateless.my is launched by Wong Yew Lee, a concerned youth affected by statelessness in Malaysia, he believes that citizenship should not be exclusively proven via papers. 
+
+*collective of people*
 
 #### Documenting The Stories Of Statelessness
 
