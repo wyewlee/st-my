@@ -25,6 +25,13 @@ authors:
     instagram: https://instagram.com/wongyewlee/
     description: "Convenor of Stateless.my, stateless Malaysian. Stateless by paper, Malaysian by heart."
 
+    nkj:
+    name: Ng Khai Jie
+    display_name: Ng Khai Jie
+    avatar: 'assets/images/avatar-nkj.jpg'
+    facebook: https://www.facebook.com/Jack.Ng.Khai.Jie
+    description: "Born a stateless, Live a stateless, Die a Malaysian."
+
 # Plugins
 plugins:
   - jekyll-paginate
