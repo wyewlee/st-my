@@ -23,6 +23,13 @@ Additionally, the proposed amendment eliminates the safeguard against statelessn
 
 Some argue that strengthening the ministry's prerogative on granting citizenship is a positive step. However, this approach does not provide comprehensive and perpetual judiciary safeguards against statelessness. Without strong judicial oversight, there may be a lack of accountability and potential for abuse or arbitrary decisions in the process of granting citizenship.
 
-![x](assets/images/post-04/2.png "x")
 ![z](/assets/images/post-04/2.png "z")
-<img src="/assets/images/post-04/4.png">
+![z](/assets/images/post-04/3.png "z")
+![z](/assets/images/post-04/4.png "z")
+![z](/assets/images/post-04/5.png "z")
+![z](/assets/images/post-04/6.png "z")
+![z](/assets/images/post-04/7.png "z")
+![z](/assets/images/post-04/8.png "z")
+![z](/assets/images/post-04/9.png "z")
+![z](/assets/images/post-04/10.png "z")
+![z](/assets/images/post-04/11.png "z")
