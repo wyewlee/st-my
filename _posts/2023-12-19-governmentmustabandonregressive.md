@@ -44,113 +44,113 @@ surikempe@gmail.com | 019 399 3886
 
 #### Endorsed by 60 Organisations, dated 16 December 2023:
 
-Advocates for Non-Discrimination and Access to Knowledge (ANAK), Sabah
-ALIRAN
-Association of Family Support & Welfare Selangor & KL (Family Frontiers)
-Association of Toy Libraries Msia
-Association of Women Lawyers (AWL)
-Bait Al Amanah (BAA)
-Borneo Komrad
-Buku Jalanan Chow Kit
-Cahaya Society
-Centre for Independent Journalism
-Childline Foundation
-⁠Community Transformation Initiative Bhd
-CRIB Foundation
-Development of Human Resources for Rural Areas (DHRRA), Malaysia
-ENGENDER
-ERA Consumer Malaysia
-ETANIA Schools Sabah 
-FOMCA 
-GERAK (Pergerakan Tenaga Akademik Malaysia) 
-HaKita
-HumanKind PLT
-Iskul Sama diLaut Omadal
-Johor Women's League (JEWEL)
-⁠Kemban Kolektif
-Koalisi Buruh Migran Berdaulat (KBMB)
-Lawyer Kamek, Sarawak
-Legal Unit, Agamam Ani Msia
-Malaysia Stateless Alliance (MSA) 
-Malaysian Association of Social Workers
-Malaysian Collaborative Practice Group
-Malaysian Council for Child Welfare
-Nat Early Childhood  Intervention Council
-Our Journey
-Partners of Community Organisations (PACOS Trust)
-Persatuan Kebajikan Dan Kepenggunaan Wanita
-Persatuan Kebangsaan Hak Asasi Manusia (HAKAM)
-Persatuan Pengasuhan dan Perkembangan Awal Kanak-kanak Berdaftar Malaysia (PPBM)
-Persatuan Promosi Hak Asasi Manusia (PROHAM)
-Persatuan Sahabat Wanita Selangor
-Pertubuhan Kebajikan pp th. Vivekananda Rembau NS         
-PERTUBUHAN MASYARAKAT RAHMAH, SOSIAL & LESTARI KUALA LUMPUR DAN SELANGOR (RSL)
-Play Unltd PLT
-Protect and Save the Children 
-Puak Payong
-PurpleLily Social Association Kuching
-Rahman Student League
-Sabah Aids Support Services Association (KASIH) 
-Sarawak Women for Women Society
-Sisters in Islam
-Stateless Malaysians (Stateless.my)
-Stateless Malaysians Citizenship Movement (SMCM) 
-SUARAM (Suara Rakyat Malaysia)
-Sustainable Development Network Malaysia (SUSDEN Malaysia)
-The Rise Malaysia 
-Tiada.Guru
-TKHAS (Terabai Kenyalang Heritage Association of Sarawak
-Undi Sabah 
-Vanguards4Change
-Voice of Children (VOC)
-Yayasan Chow Kit (YCK)
+- Advocates for Non-Discrimination and Access to Knowledge (ANAK), Sabah
+- ALIRAN
+- Association of Family Support & Welfare Selangor & KL (Family Frontiers)
+- Association of Toy Libraries Msia
+- Association of Women Lawyers (AWL)
+- Bait Al Amanah (BAA)
+- Borneo Komrad
+- Buku Jalanan Chow Kit
+- Cahaya Society
+- Centre for Independent Journalism
+- Childline Foundation
+- ⁠Community Transformation Initiative Bhd
+- CRIB Foundation
+- Development of Human Resources for Rural Areas (DHRRA), Malaysia
+- ENGENDER
+- ERA Consumer Malaysia
+- ETANIA Schools Sabah 
+- FOMCA 
+- GERAK (Pergerakan Tenaga Akademik Malaysia) 
+- HaKita
+- HumanKind PLT
+- Iskul Sama diLaut Omadal
+- Johor Women's League (JEWEL)
+⁠- Kemban Kolektif
+- Koalisi Buruh Migran Berdaulat (KBMB)
+- Lawyer Kamek, Sarawak
+- Legal Unit, Agamam Ani Msia
+- Malaysia Stateless Alliance (MSA) 
+- Malaysian Association of Social Workers
+- Malaysian Collaborative Practice Group
+- Malaysian Council for Child Welfare
+- Nat Early Childhood  Intervention Council
+- Our Journey
+- Partners of Community Organisations (PACOS Trust)
+- Persatuan Kebajikan Dan Kepenggunaan Wanita
+- Persatuan Kebangsaan Hak Asasi Manusia (HAKAM)
+- Persatuan Pengasuhan dan Perkembangan Awal Kanak-kanak Berdaftar Malaysia (PPBM)
+- Persatuan Promosi Hak Asasi Manusia (PROHAM)
+- Persatuan Sahabat Wanita Selangor
+- Pertubuhan Kebajikan pp th. Vivekananda Rembau NS         
+- PERTUBUHAN MASYARAKAT RAHMAH, SOSIAL & LESTARI KUALA LUMPUR DAN SELANGOR (RSL)
+- Play Unltd PLT
+- Protect and Save the Children 
+- Puak Payong
+- PurpleLily Social Association Kuching
+- Rahman Student League
+- Sabah Aids Support Services Association (KASIH) 
+- Sarawak Women for Women Society
+- Sisters in Islam
+- Stateless Malaysians (Stateless.my)
+- Stateless Malaysians Citizenship Movement (SMCM) 
+- SUARAM (Suara Rakyat Malaysia)
+- Sustainable Development Network Malaysia (SUSDEN Malaysia)
+- The Rise Malaysia 
+- Tiada.Guru
+- TKHAS (Terabai Kenyalang Heritage Association of Sarawak
+- Undi Sabah 
+- Vanguards4Change
+- Voice of Children (VOC)
+- Yayasan Chow Kit (YCK)
 
 #### Endorsed by 46 Individuals/activist and impacted Malaysian parents, dated 16 December 2023: 
-Dato' Dr Amar-Singh HSS, Consultant Paediatrician
-Prof Dato Noor Aziah , Commissioner of SUHAKAM
-Ranee Sreedharan (Advocate and solicitor for stateless persons)
-Azira Aziz, Lawyer (from Child Protection group)      
-Wong Kueng Hui (Former statelesss individual & activist)
-Fan Siew Lee (mother of stateless child)
-Tan Kim Hwa (mother of stateless child)
-Vanessa ( stateless )
-Nurul Akashah ( Stateless )
-⁠Lee Cheah Cherng (father of stateless child
-Wilfred Fernandez (father of stateless child)
-Lee Seng Loong - father of a stateless child
-Tan Hooi Lim - father of a stateless child
-Heah Tze Ling - father of a stateless child
-Chandra Morgan A/L Velutham @ Velautham (father of stateless child)
-Sharene Kam Guat Mei (mother of stateless child)
-Lee Su Fon (father of stateless Child)
-Lee Chi Kah (father of stateless child)
-Sandra Lee (guardian of former Stateless child).
-Teon Tiong Ann (father of stateless childs)
-Nadesh Zakuan b. Abd Rahman (father of stateless child)
-Lim Wee Seong (father of former stateless child)
-Rodney Raj Edward (Parents of non Malaysian children)
-Philip Choong Kim Hoong(stateless age 41) 
-Heng Kay Seng (member of MSA)
-⁠Mahendran Raj ( Husband and father to stateless)
-⁠Janice Tan ( stateless )
-⁠Muhammad Irfan tiong(father of stateless)
-Jenness Ong Jia Xun（Stateless）
-⁠Hor Chung Hung “Pass away”(father of stateless- mother Elizabeth)
-⁠Faridah Abdullah-stateless individual
-⁠Timothy Tean Chong Chern (father of stateless child)
-Santhi (mother of stateless child)
-⁠Chloe Ooi Eng Fong ( mother of adopted stateless child)
-Farizul Abdullah - stateless individual
-Aaliyah Marcia Abdullah - Mother of adopted stateless child via Orphancare & JKM
-Mustafa Bin UPC Mohamed - Father of adopted stateless child via JKM
-Justine Morais, affected parent
-Anita Premila Paul(mother of formerly stateless child)
-Victor Francis(biological father to stateless child)
-Tan Han Fang (guardian of stateless child)
-Sandra Stephanie Theraviam (mother of formerly stateless child)
-Lee Chee Siang - father of adopted child
-Tan Jun Lok -stateless
-Tiew Chai Kee-father of adopted child
-⁠Wong Yew Lee (former stateless individual)
+- Dato' Dr Amar-Singh HSS, Consultant Paediatrician
+- Prof Dato Noor Aziah , Commissioner of SUHAKAM
+- Ranee Sreedharan (Advocate and solicitor for stateless persons)
+- Azira Aziz, Lawyer (from Child Protection group)      
+- Wong Kueng Hui (Former statelesss individual & activist)
+- Fan Siew Lee (mother of stateless child)
+- Tan Kim Hwa (mother of stateless child)
+- Vanessa ( stateless )
+- Nurul Akashah ( Stateless )
+- ⁠Lee Cheah Cherng (father of stateless child
+- Wilfred Fernandez (father of stateless child)
+- Lee Seng Loong - father of a stateless child
+- Tan Hooi Lim - father of a stateless child
+- Heah Tze Ling - father of a stateless child
+- Chandra Morgan A/L Velutham @ Velautham (father of stateless child)
+- Sharene Kam Guat Mei (mother of stateless child)
+- Lee Su Fon (father of stateless Child)
+- Lee Chi Kah (father of stateless child)
+- Sandra Lee (guardian of former Stateless child).
+- Teon Tiong Ann (father of stateless childs)
+- Nadesh Zakuan b. Abd Rahman (father of stateless child)
+- Lim Wee Seong (father of former stateless child)
+- Rodney Raj Edward (Parents of non Malaysian children)
+- Philip Choong Kim Hoong(stateless age 41) 
+- Heng Kay Seng (member of MSA)
+- ⁠Mahendran Raj ( Husband and father to stateless)
+⁠- Janice Tan ( stateless )
+⁠- Muhammad Irfan tiong(father of stateless)
+- Jenness Ong Jia Xun（Stateless）
+- ⁠Hor Chung Hung “Pass away”(father of stateless- mother Elizabeth)
+⁠- Faridah Abdullah-stateless individual
+⁠- Timothy Tean Chong Chern (father of stateless child)
+- Santhi (mother of stateless child)
+⁠- Chloe Ooi Eng Fong ( mother of adopted stateless child)
+- Farizul Abdullah - stateless individual
+- Aaliyah Marcia Abdullah - Mother of adopted stateless child via Orphancare & JKM
+- Mustafa Bin UPC Mohamed - Father of adopted stateless child via JKM
+- Justine Morais, affected parent
+- Anita Premila Paul(mother of formerly stateless child)
+- Victor Francis(biological father to stateless child)
+- Tan Han Fang (guardian of stateless child)
+- Sandra Stephanie Theraviam (mother of formerly stateless child)
+- Lee Chee Siang - father of adopted child
+- Tan Jun Lok -stateless
+- Tiew Chai Kee-father of adopted child
+- ⁠Wong Yew Lee (former stateless individual)
  
 Statement is issued in response to: In response to KDN Deputy Minister response in Dewan Negara https://www.nst.com.my/news/nation/2023/12/990065/proposed-amendments-citizenship-law-aim-prevent-misuse-and-statelessness  
