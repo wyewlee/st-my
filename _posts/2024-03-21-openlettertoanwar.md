@@ -56,6 +56,7 @@ In the same Special Chamber proceeding, the Deputy Minister of Home Affairs alle
 However, in a 2022 survey involving 65 MyPR applicants, Family Frontiers found that application processing times varied from less than 2 years to more than 6 years; none of the applications were approved in 90 days.
 
 (4.) Special citizenship registration power under Article 15A
+
 The government is suggesting that once the amendments come into effect, applications for children born out of wedlock, adopted children who are stateless, and adult foundlings in Malaysia be processed under Article 15A. However,  it is understood that as part of its proposed amendments, the Government intends to remove the constitutional safeguard on statelessness in section 1(e) and reduce the eligibility of applicants under Article 15A from 21 years to 18 years.
 
 As justifying good conduct on its part, on 11 March the Home Minister announced that since 2013, there have been 59,000 applications under Article 15A, of which 35,000 have been processed with a 98% approval rate. There are still 14,000 pending applications to be processed. 
