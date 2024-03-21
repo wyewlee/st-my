@@ -35,7 +35,7 @@ It is also because of our knowledge, experience and expertise that we are able t
 
 Here are some recent examples of questionable data and information from the Government:
 
-1.  	Number of foundlings 
+(1.) Number of foundlings 
 
 As part of their proposed amendments, the Government intends to remove Section 19B in Part III of the Second Schedule of the Constitution, which provides a pathway for abandoned babies to obtain citizenship by operation of law. The Home Minister has tried to dismiss concerns about the negative impact of removing Section 19B, by claiming that only 142 submissions were made under Section 19B over a ten year period (2013 – 2023), all of which were approved – thus suggesting that the impact of the removal of Section 19B will be minimal.
 
@@ -43,19 +43,19 @@ However, the alleged 142 submissions do not represent the total number of foundl
 
 Additionally according to DHRRA, the low numbers of citizenship submissions for foundlings are because many foundlings are either given the wrong forms, or issued green ICs instead of citizenship; and many such cases are thus taken to court to pursue the implementation of section 19B.  
 
-2.  	Marriages of convenience
+(2.) Marriages of convenience
 
 We are also given to understand that the government intends to amend Article 26(2) of the Constitution allegedly to curb ‘marriages of convenience’. The Government’s proposal is to give itself power to strip a (previously) non-citizen wife of her Malaysian citizenship if the marriage is dissolved within two years after she obtains her citizenship.
 
 However, in a recent answer given in the Special Chamber of the Dewan Rakyat on 12 March, the Deputy Minister of Home Affairs admitted that the Ministry does not, in fact, have any data on ‘marriages of convenience’. In other words, the Government is attempting to make a constitutional amendment to solve a ‘problem’ that it cannot prove exists.
 
-3.  	Applications for Permanent Residence
+(3.) Applications for Permanent Residence
 
 In the same Special Chamber proceeding, the Deputy Minister of Home Affairs alleged that Permanent Residence (MyPR) applications are approved within 90 days of submitting a complete application.
 
 However, in a 2022 survey involving 65 MyPR applicants, Family Frontiers found that application processing times varied from less than 2 years to more than 6 years; none of the applications were approved in 90 days.
 
-4.  	Special citizenship registration power under Article 15A
+(4.) Special citizenship registration power under Article 15A
 The government is suggesting that once the amendments come into effect, applications for children born out of wedlock, adopted children who are stateless, and adult foundlings in Malaysia be processed under Article 15A. However,  it is understood that as part of its proposed amendments, the Government intends to remove the constitutional safeguard on statelessness in section 1(e) and reduce the eligibility of applicants under Article 15A from 21 years to 18 years.
 
 As justifying good conduct on its part, on 11 March the Home Minister announced that since 2013, there have been 59,000 applications under Article 15A, of which 35,000 have been processed with a 98% approval rate. There are still 14,000 pending applications to be processed. 
