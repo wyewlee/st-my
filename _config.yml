@@ -32,6 +32,13 @@ authors:
     facebook: https://www.facebook.com/Jack.Ng.Khai.Jie
     description: "Born a stateless, Live a stateless, Die a Malaysian."
 
+  mcra:
+    name: Malaysian Citizenship Rights Alliance (MCRA)
+    display_name: Malaysian Citizenship Rights Alliance (MCRA)
+    # avatar: 'assets/images/avatar-nkj.jpg'
+    # facebook: https://www.facebook.com/Jack.Ng.Khai.Jie
+    # description: "Born a stateless, Live a stateless, Die a Malaysian."
+
 # Plugins
 plugins:
   - jekyll-paginate
