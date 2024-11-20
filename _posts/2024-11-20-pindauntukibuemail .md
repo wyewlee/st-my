@@ -10,7 +10,40 @@ beforetoc: "Urge your Senators to vote in favour of #PindaPerkara14UntukIbu when
 toc: false
 ---
 
-| Senator Name | mailto |
+## Technical Instructions:
+- Scroll down the page to find the table.
+- Click "Send Email."
+- If you are using a phone, it will redirect you to your default email app with the pre-filled email.
+- Click "Send."
+- Alicia will automatically be added to the BCC field (alicia@familyfrontiers.org).
+- The senator's email address and the email body template will be automatically included.
+- No extra steps needed as you can just send right away.
+
+## Instructions from Family Frontiers:
+- Edit the email as necessary to suit your message, and feel free to add a personal touch
+
+
+---
+
+WE WANT YOU to join our email storm and urge our members of the Senate to approve #PindaPerkara14UntukIbu at the Senate level as soon as possible! 
+
+#PindaPerkara14UntukIbu was passed in Dewan Rakyat on 17 October 2024, making us closer to equal citizenship rights for Malaysian women and their overseas-born children.
+
+However, the journey is not over. It now has to be passed in Dewan Negara with a 2/3 majority vote. Urge your Senators to vote in favour of #PindaPerkara14UntukIbu when it is tabled in Dewan Negara and halt the other regressive amendments.
+
+Help us achieve equal citizenship rights for Malaysian women and their children born abroad. 
+
+-----
+
+KAMI MAHU ANDA untuk menyertai email storm kami dan menggesa ahli Dewan Negara kita untuk meluluskan #PindaPerkara14UntukIbu pada peringkat Dewan Negara secepat mungkin!
+
+#PindaPerkara14UntukIbudi Dewan Rakyat pada 17 Oktober 2024 yang mendekatkan kami kepada hak kewarganegaraan yang sama rata untuk wanita Malaysia dan anak mereka yang dilahirkan di luar negara.
+
+Namun, perjalanan ini belum berakhir kerana ia kini perlu diluluskan di Dewan Negara dengan undi majoriti 2/3. Gesa Senator anda untuk mengundi memihak #PindaPerkara14UntukIbu dan hentikan pindaan regresif yang lain apabila ia dibentangkan di Dewan Negara.
+
+Bantu kami mencapai hak kewarganegaraan yang sama rata bagi wanita-wanita warga Malaysia dan anak-anak mereka yang dilahirkan di luar negara.
+
+| Senator Name | ----- |
 |------------|------|
 | Kesavadas a/l A. Achyuthan Nair | <a href="mailto:akdnair@hotmail.com?bcc=alicia@familyfrontiers.org&subject=Continue%20only%20with%20amendments%20to%20Article%2014(1)(b)%2C%20Sections%201(b)%20and%201(c)%2C%20Part%20II%20of%20the%20Second%20Schedule%20for%20Malaysian%20mothers!%20Stop%20the%20regressive%20amendments%20-%20Malaysian%20Citizen&body=YB Senator Dato'%20Kesavadas a/l A. Achyuthan Nair%2C%0D%0A%0D%0AI%20am%20emailing%20you%20as%20a%20Malaysian%20citizen%20regarding%20the%20constitutional%20amendment%20to%20Article%2014(1)(b)%2C%20Part%20II%2C%20Sections%201(b)%20and%201(c)%20of%20the%20Second%20Schedule%20to%20grant%20overseas-born%20children%20of%20Malaysian%20mothers%20citizenship%20by%20operation%20of%20law.%0D%0A%0D%0AIt%20is%20great%20news%20that%20the%20Constitutional%20(Amendment)%20Bill%202024%20which%20will%20grant%20Malaysian%20mothers%20the%20equal%20right%20to%20confer%20citizenship%20to%20their%20children%20%E2%80%93%20has%20been%20passed%20unanimously%20in%20Dewan%20Rakyat%20with%20a%20majority%20vote%20of%20206%20on%2017%20October%202024.%20The%20move%20to%20finally%20elevate%20the%20ability%20of%20Malaysian%20mothers%20to%20confer%20citizenship%20to%20equal%20that%20of%20Malaysian%20fathers%20is%20long%20overdue%2C%20and%20upholds%20the%20promise%20of%20equality%20in%20the%20Federal%20Constitution.%0D%0A%0D%0AHowever%2C%20this%20victory%20would%20have%20been%20much%20sweeter%20had%20the%20amendment%20been%20made%20retroactive%2C%20ensuring%20that%20all%20affected%20Malaysian%20mothers%20and%20their%20children%20would%20benefit.%20It%20is%20also%20unfortunate%20that%20this%20progressive%20amendment%20was%20not%20decoupled%20from%20other%20regressive%20amendments%20in%20the%20same%20bill%20that%20threaten%20to%20strip%20away%20existing%20citizenship%20rights%20of%20marginalised%20groups%20vulnerable%20to%20statelessness.%0D%0A%0D%0ASince%20the%20Bill%20is%20expected%20to%20be%20tabled%20during%20the%20upcoming%20Dewan%20Negara%20session%2C%20as%20Senators%20who%20are%20elected%20to%20uphold%20the%20rights%20of%20Malaysians%2C%20I%20ask%20that%20you%20represent%20my%20voice%20in%20Parliament.%20Ensure%20that%20the%20bill%20is%20debated%20this%20Dewan%20Negara%20session.%20Only%20move%20forward%20with%20the%20amendment%20that%20will%20give%20Malaysian%20mothers%20the%20equal%20right%20to%20confer%20citizenship%20and%20ensure%20that%20it%20is%20implemented%20retroactively%20so%20that%20all%20overseas-born%20children%20of%20Malaysian%20mothers%2C%20regardless%20of%20year%20of%20birth%2C%20can%20become%20Malaysian.%20Halt%20the%20three%20remaining%20regressive%20amendments%20-%20do%20not%20allow%20the%20regressive%20amendments%20to%20pass%20that%20will%20remove%20fundamental%20rights%20that%20currently%20exist%20in%20the%20Federal%20Constitution.%0D%0A%0D%0AThank%20you%20for%20your%20attention%20to%20this%20pressing%20and%20important%20matter.%20I%20trust%20that%20you%20will%20uphold%20the%20principles%20of%20justice%20and%20equality.%0D%0A%0D%0AYours%20sincerely%2C%0D%0A%0D%0ACitizen%20of%20Malaysia.%0D%0A">Send Email</a> |
 | Lingeshwaran a/l Dato' Seri R. Arunasalam |  |
@@ -70,22 +103,3 @@ toc: false
 | Zulkifli bin Hasan | <a href="mailto:zulkifli.hasan@jpm.gov.my?bcc=alicia@familyfrontiers.org&subject=Continue%20only%20with%20amendments%20to%20Article%2014(1)(b)%2C%20Sections%201(b)%20and%201(c)%2C%20Part%20II%20of%20the%20Second%20Schedule%20for%20Malaysian%20mothers!%20Stop%20the%20regressive%20amendments%20-%20Malaysian%20Citizen&body=YB Senator Dr.%20Zulkifli bin Hasan%2C%0D%0A%0D%0AI%20am%20emailing%20you%20as%20a%20Malaysian%20citizen%20regarding%20the%20constitutional%20amendment%20to%20Article%2014(1)(b)%2C%20Part%20II%2C%20Sections%201(b)%20and%201(c)%20of%20the%20Second%20Schedule%20to%20grant%20overseas-born%20children%20of%20Malaysian%20mothers%20citizenship%20by%20operation%20of%20law.%0D%0A%0D%0AIt%20is%20great%20news%20that%20the%20Constitutional%20(Amendment)%20Bill%202024%20which%20will%20grant%20Malaysian%20mothers%20the%20equal%20right%20to%20confer%20citizenship%20to%20their%20children%20%E2%80%93%20has%20been%20passed%20unanimously%20in%20Dewan%20Rakyat%20with%20a%20majority%20vote%20of%20206%20on%2017%20October%202024.%20The%20move%20to%20finally%20elevate%20the%20ability%20of%20Malaysian%20mothers%20to%20confer%20citizenship%20to%20equal%20that%20of%20Malaysian%20fathers%20is%20long%20overdue%2C%20and%20upholds%20the%20promise%20of%20equality%20in%20the%20Federal%20Constitution.%0D%0A%0D%0AHowever%2C%20this%20victory%20would%20have%20been%20much%20sweeter%20had%20the%20amendment%20been%20made%20retroactive%2C%20ensuring%20that%20all%20affected%20Malaysian%20mothers%20and%20their%20children%20would%20benefit.%20It%20is%20also%20unfortunate%20that%20this%20progressive%20amendment%20was%20not%20decoupled%20from%20other%20regressive%20amendments%20in%20the%20same%20bill%20that%20threaten%20to%20strip%20away%20existing%20citizenship%20rights%20of%20marginalised%20groups%20vulnerable%20to%20statelessness.%0D%0A%0D%0ASince%20the%20Bill%20is%20expected%20to%20be%20tabled%20during%20the%20upcoming%20Dewan%20Negara%20session%2C%20as%20Senators%20who%20are%20elected%20to%20uphold%20the%20rights%20of%20Malaysians%2C%20I%20ask%20that%20you%20represent%20my%20voice%20in%20Parliament.%20Ensure%20that%20the%20bill%20is%20debated%20this%20Dewan%20Negara%20session.%20Only%20move%20forward%20with%20the%20amendment%20that%20will%20give%20Malaysian%20mothers%20the%20equal%20right%20to%20confer%20citizenship%20and%20ensure%20that%20it%20is%20implemented%20retroactively%20so%20that%20all%20overseas-born%20children%20of%20Malaysian%20mothers%2C%20regardless%20of%20year%20of%20birth%2C%20can%20become%20Malaysian.%20Halt%20the%20three%20remaining%20regressive%20amendments%20-%20do%20not%20allow%20the%20regressive%20amendments%20to%20pass%20that%20will%20remove%20fundamental%20rights%20that%20currently%20exist%20in%20the%20Federal%20Constitution.%0D%0A%0D%0AThank%20you%20for%20your%20attention%20to%20this%20pressing%20and%20important%20matter.%20I%20trust%20that%20you%20will%20uphold%20the%20principles%20of%20justice%20and%20equality.%0D%0A%0D%0AYours%20sincerely%2C%0D%0A%0D%0ACitizen%20of%20Malaysia.%0D%0A">Send Email</a> |
 
 
----
-
-WE WANT YOU to join our email storm and urge our members of the Senate to approve #PindaPerkara14UntukIbu at the Senate level as soon as possible! 
-
-#PindaPerkara14UntukIbu was passed in Dewan Rakyat on 17 October 2024, making us closer to equal citizenship rights for Malaysian women and their overseas-born children.
-
-However, the journey is not over. It now has to be passed in Dewan Negara with a 2/3 majority vote. Urge your Senators to vote in favour of #PindaPerkara14UntukIbu when it is tabled in Dewan Negara and halt the other regressive amendments.
-
-Help us achieve equal citizenship rights for Malaysian women and their children born abroad. 
-
------
-
-KAMI MAHU ANDA untuk menyertai email storm kami dan menggesa ahli Dewan Negara kita untuk meluluskan #PindaPerkara14UntukIbu pada peringkat Dewan Negara secepat mungkin!
-
-#PindaPerkara14UntukIbudi Dewan Rakyat pada 17 Oktober 2024 yang mendekatkan kami kepada hak kewarganegaraan yang sama rata untuk wanita Malaysia dan anak mereka yang dilahirkan di luar negara.
-
-Namun, perjalanan ini belum berakhir kerana ia kini perlu diluluskan di Dewan Negara dengan undi majoriti 2/3. Gesa Senator anda untuk mengundi memihak #PindaPerkara14UntukIbu dan hentikan pindaan regresif yang lain apabila ia dibentangkan di Dewan Negara.
-
-Bantu kami mencapai hak kewarganegaraan yang sama rata bagi wanita-wanita warga Malaysia dan anak-anak mereka yang dilahirkan di luar negara.
