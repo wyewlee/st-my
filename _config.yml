@@ -39,6 +39,13 @@ authors:
     # facebook: https://www.facebook.com/Jack.Ng.Khai.Jie
     # description: "Born a stateless, Live a stateless, Die a Malaysian."
 
+  ff:
+  name: Family Frontiers
+  display_name: Family Frontiers
+  # avatar: 'assets/images/avatar-nkj.jpg'
+  # facebook: https://www.facebook.com/Jack.Ng.Khai.Jie
+  # description: "Born a stateless, Live a stateless, Die a Malaysian."
+
 # Plugins
 plugins:
   - jekyll-paginate
